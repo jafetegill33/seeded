@@ -48,7 +48,7 @@ seeded then generates a ready-to-build Debian package skeleton.
 ### Build from Source
 
 ```bash
-git clone https://github.com/<YOUR_ORG>/seeded.git
+git clone https://github.com/jafetegill33/seeded.git
 cd seeded
 make
 sudo install -m755 seeded /usr/local/bin/
