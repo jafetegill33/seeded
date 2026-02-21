@@ -4,7 +4,7 @@
 
 It is designed for Linux distribution builders, maintainers, and automated build systems that need a reliable way to define package sets and turn them into reproducible Debian source packages.
 
-seeded is developed as part of the **ValhallaOS Ragnarök** tooling stack, but works on any Debian-based system.
+seeded is developed as part of the **Valhalla Linux Ragnarök** tooling stack, but works on any Debian-based system.
 
 ---
 
